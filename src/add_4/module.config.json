@@ -1,0 +1,8 @@
+{
+  "module_name": "minecraft-pack-template-add-4",
+  "support_version": "*",
+  "weight": 2,
+  "breaks": [
+    "add_3"
+  ]
+}
