@@ -6,5 +6,8 @@
   "base_path": "./src",
   "sets_path": "./sets",
   "icon": "./icon.png",
-  "main_module": "main"
+  "main_module": "main",
+  "version_modules": {
+    "1.21.1": "version_add_1"
+  }
 }
