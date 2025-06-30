@@ -8,6 +8,9 @@
   "icon": "./icon.png",
   "main_module": "main",
   "version_modules": {
-    "1.21.1": "version_add_1"
+    "1.21.1": {
+      "module": "version_add_1",
+      "strict": false
+    }
   }
 }
