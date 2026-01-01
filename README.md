@@ -37,6 +37,7 @@
 | license           | string?                         | 开源协议，默认为 `ARR`     |
 | main_module       | string                          | 主模块                |
 | file_mode         | boolean?                        | 是否启用从文件构建          |
+| version_reverse   | boolean?                        | 是否颠倒版本模块覆盖顺序       |
 | version_modules   | {[key: string]: VersionModule}? | 版本模块               |
 
 ### `VersionModule`
